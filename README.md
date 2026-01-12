@@ -4,4 +4,4 @@
 
 记录用
 
-![](README\1.png)
+<img src="README\1.png" style="zoom:75%;" />
